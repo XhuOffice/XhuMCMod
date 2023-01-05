@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_ngguu",
+    "name": "Music Disc",
+    "description": "Rick Astley - Never Gonna Give You Up",
+    "creativeTab": {
+      "value": "CUSTOM:XhuList"
+    },
+    "music": {
+      "value": "CUSTOM:ngguu"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

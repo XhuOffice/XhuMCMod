@@ -1,0 +1,36 @@
+{
+  "group": "xhu",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "xhu:xhu_ingot"
+    },
+    "1": {
+      "item": "xhu:xhu_ingot"
+    },
+    "2": {
+      "item": "xhu:xhu_ingot"
+    },
+    "3": {
+      "item": "xhu:xhu_ingot"
+    },
+    "5": {
+      "item": "xhu:xhu_ingot"
+    },
+    "6": {
+      "item": "xhu:xhu_ingot"
+    },
+    "8": {
+      "item": "xhu:xhu_ingot"
+    }
+  },
+  "result": {
+    "item": "xhu:xhu_armorlegs",
+    "count": 1
+  }
+}

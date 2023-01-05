@@ -1,0 +1,204 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "XhuLogo",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_logo"
+    },
+    {
+      "name": "XhuList",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_list"
+    },
+    {
+      "name": "XhuOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_ore"
+    },
+    {
+      "name": "XhuIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_ingot"
+    },
+    {
+      "name": "XhuIngotSmelting",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_ingot_smelting"
+    },
+    {
+      "name": "XhuIngotGet",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_ingot_get"
+    },
+    {
+      "name": "XhuPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_pickaxe"
+    },
+    {
+      "name": "XhuAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_axe"
+    },
+    {
+      "name": "XhuSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_sword"
+    },
+    {
+      "name": "XhuShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_shovel"
+    },
+    {
+      "name": "XhuHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_hoe"
+    },
+    {
+      "name": "XhuPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_pickaxe_recipe"
+    },
+    {
+      "name": "XhuAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_axe_recipe"
+    },
+    {
+      "name": "XhuSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_sword_recipe"
+    },
+    {
+      "name": "XhuShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_shovel_recipe"
+    },
+    {
+      "name": "XhuHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.xhu_ingot_get.title": "Xhu Ingot Get",
+      "item.xhu_sword.name": "Xhu Sword",
+      "itemGroup.tabxhu_list": "Xhu List",
+      "advancements.xhu_ingot_get.descr": "Get a Xhu ingot.",
+      "item.xhu_shovel.name": "Xhu Shovel",
+      "item.xhu_pickaxe.name": "Xhu Pickaxe",
+      "item.xhu_axe.name": "Xhu Axe",
+      "item.xhu_hoe.name": "Xhu Hoe",
+      "tile.xhu_ore.name": "Xhu Ore",
+      "item.xhu_ingot.name": "Xhu Ingot",
+      "item.xhu_logo.name": "Xhu Logo"
+    },
+    "zh_cn": {
+      "advancements.xhu_ingot_get.title": "Xhu Ingot 锭 ！？",
+      "item.xhu_sword.name": "Xhu Sword",
+      "itemGroup.tabxhu_list": "Xhu",
+      "advancements.xhu_ingot_get.descr": "获得一块 Xhu 锭。",
+      "item.xhu_shovel.name": "Xhu Shovel",
+      "item.xhu_pickaxe.name": "Xhu Pickaxe",
+      "item.xhu_axe.name": "Xhu Axe",
+      "item.xhu_hoe.name": "Xhu Hoe",
+      "tile.xhu_ore.name": "Xhu 矿石",
+      "item.xhu_ingot.name": "Xhu 锭",
+      "item.xhu_logo.name": "Xhu Logo"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "xhu",
+    "modName": "Xhu Minecraft Mod",
+    "version": "0.0.0",
+    "description": "Xhu Mod for Minecraft",
+    "author": "Session, MCreator",
+    "websiteURL": "https://xhuoffice.tk/Services/MinecraftMods",
+    "license": "Apache License version 2.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "xhulogo_shadow",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Made by XhuOffice",
+    "modElementsPackage": "net.xhu.mcmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

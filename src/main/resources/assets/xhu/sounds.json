@@ -1,0 +1,11 @@
+{
+  "ngguu": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "xhu:ngguu",
+        "stream": true
+      }
+    ]
+  }
+}
