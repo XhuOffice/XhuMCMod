@@ -36,7 +36,7 @@ public class BlockXhuOre extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_ore")
 	public static final Block block = null;
 	public BlockXhuOre(ElementsXhuMod instance) {
-		super(instance, 3);
+		super(instance, 2);
 	}
 
 	@Override
@@ -78,6 +78,7 @@ public class BlockXhuOre extends ElementsXhuMod.ModElement {
 			super(Material.ROCK);
 			setUnlocalizedName("xhu_ore");
 			setSoundType(SoundType.STONE);
+			setHarvestLevel("pickaxe", 3);
 			setHardness(4.5F);
 			setResistance(10F);
 			setLightLevel(0F);

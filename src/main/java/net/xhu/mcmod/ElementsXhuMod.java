@@ -55,6 +55,7 @@ public class ElementsXhuMod implements IFuelHandler, IWorldGenerator {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsXhuMod() {
 		sounds.put(new ResourceLocation("xhu", "ngguu"), new net.minecraft.util.SoundEvent(new ResourceLocation("xhu", "ngguu")));
+		sounds.put(new ResourceLocation("xhu", "wfzydg"), new net.minecraft.util.SoundEvent(new ResourceLocation("xhu", "wfzydg")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

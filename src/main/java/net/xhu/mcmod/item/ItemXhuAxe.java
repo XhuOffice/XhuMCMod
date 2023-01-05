@@ -27,7 +27,7 @@ public class ItemXhuAxe extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_axe")
 	public static final Item block = null;
 	public ItemXhuAxe(ElementsXhuMod instance) {
-		super(instance, 8);
+		super(instance, 6);
 	}
 
 	@Override

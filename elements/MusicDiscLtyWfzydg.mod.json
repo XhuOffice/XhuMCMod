@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_lty_wfzydg",
+    "name": "Music Disc",
+    "description": "洛天依 - 万分之一的光",
+    "creativeTab": {
+      "value": "CUSTOM:XhuList"
+    },
+    "music": {
+      "value": "CUSTOM:wfzydg"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -13,7 +13,7 @@
     {
       "name": "XhuList",
       "type": "tab",
-      "sortid": 2,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "XhuOre",
       "type": "block",
-      "sortid": 3,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -31,7 +31,7 @@
     {
       "name": "XhuIngot",
       "type": "item",
-      "sortid": 4,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -40,7 +40,7 @@
     {
       "name": "XhuIngotSmelting",
       "type": "recipe",
-      "sortid": 5,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -49,7 +49,7 @@
     {
       "name": "XhuIngotGet",
       "type": "achievement",
-      "sortid": 6,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -58,7 +58,7 @@
     {
       "name": "XhuPickaxe",
       "type": "tool",
-      "sortid": 7,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -67,7 +67,7 @@
     {
       "name": "XhuAxe",
       "type": "tool",
-      "sortid": 8,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -76,7 +76,7 @@
     {
       "name": "XhuSword",
       "type": "tool",
-      "sortid": 9,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -85,7 +85,7 @@
     {
       "name": "XhuShovel",
       "type": "tool",
-      "sortid": 10,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -94,7 +94,7 @@
     {
       "name": "XhuHoe",
       "type": "tool",
-      "sortid": 11,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -103,7 +103,7 @@
     {
       "name": "XhuPickaxeRecipe",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -112,7 +112,7 @@
     {
       "name": "XhuAxeRecipe",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -121,7 +121,7 @@
     {
       "name": "XhuSwordRecipe",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "XhuShovelRecipe",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -139,7 +139,7 @@
     {
       "name": "XhuHoeRecipe",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -148,7 +148,7 @@
     {
       "name": "XhuArmor",
       "type": "armor",
-      "sortid": 17,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -163,7 +163,7 @@
     {
       "name": "XhuArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 18,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -172,7 +172,7 @@
     {
       "name": "XhuArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -181,7 +181,7 @@
     {
       "name": "XhuArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 20,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -190,20 +190,64 @@
     {
       "name": "XhuArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 21,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "xhu_armor_boots_recipe"
     },
     {
-      "name": "MusicDiscNGGUU",
+      "name": "MusicDiscRaNgguu",
       "type": "musicdisc",
-      "sortid": 22,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "music_disc_ngguu"
+      "registry_name": "music_disc_ra_ngguu"
+    },
+    {
+      "name": "MusicDiscLtyWfzydg",
+      "type": "musicdisc",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music_disc_lty_wfzydg"
+    },
+    {
+      "name": "XhuArmorGet",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_armor_get"
+    },
+    {
+      "name": "XhuBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xhu_block"
+    },
+    {
+      "name": "IfXhuArmorGet",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "if_xhu_armor_get",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -215,48 +259,68 @@
       ],
       "category": "record",
       "subtitle": ""
+    },
+    {
+      "name": "wfzydg",
+      "files": [
+        "wfzydg"
+      ],
+      "category": "record",
+      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
-      "advancements.xhu_ingot_get.title": "Xhu ! ",
-      "itemGroup.tabxhu_list": "Xhu",
+      "advancements.xhu_ingot_get.title": "Xhu!",
       "item.xhu_armorboots.name": "Xhu Boots",
       "item.xhu_pickaxe.name": "Xhu Pickaxe",
-      "item.xhu_axe.name": "Xhu Axe",
-      "item.xhu_hoe.name": "Xhu Hoe",
       "item.xhu_armorhelmet.name": "Xhu Helmet",
       "item.xhu_armorbody.name": "Xhu Chestplate",
-      "item.xhu_ingot.name": "Xhu Ingot",
-      "item.xhu_sword.name": "Xhu Sword",
+      "item.music_disc_ra_ngguu.name": "Music Disc",
       "subtitles.ngguu": "",
       "advancements.xhu_ingot_get.descr": "Get a Xhu ingot.",
+      "tile.xhu_ore.name": "Xhu Ore",
+      "item.xhu_logo.name": "Xhu Logo",
+      "advancements.xhu_armor_get.descr": "Get a full set of Xhu armor.",
+      "tile.xhu_block.name": "Xhu Block",
+      "itemGroup.tabxhu_list": "Xhu List",
+      "item.xhu_axe.name": "Xhu Axe",
+      "item.xhu_hoe.name": "Xhu Hoe",
+      "item.xhu_ingot.name": "Xhu Ingot",
+      "item.xhu_sword.name": "Xhu Sword",
       "item.xhu_armorlegs.name": "Xhu Leggings",
       "item.xhu_shovel.name": "Xhu Shovel",
-      "item.music_disc_ngguu.name": "Music Disc",
-      "tile.xhu_ore.name": "Xhu Ore",
-      "item.record.music_disc_ngguu.desc": "Rick Asttiy - Never Gonna Give You Up",
-      "item.xhu_logo.name": "Xhu Logo"
+      "item.record.music_disc_ra_ngguu.desc": "Rick Astley - Never Gonna Give You Up",
+      "item.music_disc_lty_wfzydg.name": "Music Disc",
+      "advancements.xhu_armor_get.title": "Give me the power of Xhu!",
+      "item.record.music_disc_lty_wfzydg.desc": "洛天依 - 万分之一的光",
+      "subtitles.wfzydg": ""
     },
     "zh_cn": {
-      "advancements.xhu_ingot_get.title": "Xhu ！",
-      "itemGroup.tabxhu_list": "Xhu",
+      "advancements.xhu_ingot_get.title": "Xhu！",
       "item.xhu_armorboots.name": "Xhu 靴",
       "item.xhu_pickaxe.name": "Xhu 镐",
-      "item.xhu_axe.name": "Xhu 斧",
-      "item.xhu_hoe.name": "Xhu 锄",
       "item.xhu_armorhelmet.name": "Xhu 头盔",
       "item.xhu_armorbody.name": "Xhu 胸甲",
-      "item.xhu_ingot.name": "Xhu 锭",
-      "item.xhu_sword.name": "Xhu 剑",
+      "item.music_disc_ra_ngguu.name": "音乐唱片",
       "subtitles.ngguu": "",
       "advancements.xhu_ingot_get.descr": "获得一块 Xhu 锭。",
+      "tile.xhu_ore.name": "Xhu 矿石",
+      "item.xhu_logo.name": "Xhu Logo",
+      "advancements.xhu_armor_get.descr": "Get a full set of Xhu armor.",
+      "tile.xhu_block.name": "Xhu Block",
+      "itemGroup.tabxhu_list": "Xhu",
+      "item.xhu_axe.name": "Xhu 斧",
+      "item.xhu_hoe.name": "Xhu 锄",
+      "item.xhu_ingot.name": "Xhu 锭",
+      "item.xhu_sword.name": "Xhu 剑",
       "item.xhu_armorlegs.name": "Xhu 护腿",
       "item.xhu_shovel.name": "Xhu 铲",
-      "item.music_disc_ngguu.name": "Music Disc",
-      "tile.xhu_ore.name": "Xhu 矿石",
-      "item.record.music_disc_ngguu.desc": "Rick Asttiy - Never Gonna Give You Up",
-      "item.xhu_logo.name": "Xhu Logo"
+      "item.record.music_disc_ra_ngguu.desc": "Rick Astley - Never Gonna Give You Up",
+      "item.music_disc_lty_wfzydg.name": "音乐唱片",
+      "advancements.xhu_armor_get.title": "Give me the power of Xhu!",
+      "item.record.music_disc_lty_wfzydg.desc": "洛天依 - 万分之一的光",
+      "subtitles.wfzydg": ""
     }
   },
   "foldersRoot": {

@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "xhu_ore",
+    "texture": "xhu_block",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,9 +32,9 @@
         "subtract": false
       }
     ],
-    "name": "Xhu Ore",
+    "name": "Xhu Block",
     "specialInfo": [],
-    "hardness": 4.5,
+    "hardness": 5.2,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
@@ -52,7 +52,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "ROCK"
+      "value": "IRON"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -72,12 +72,12 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "METAL"
     },
-    "luminance": 0,
+    "luminance": 1,
     "unbreakable": false,
     "breakHarvestLevel": 3,
-    "spawnParticles": true,
+    "spawnParticles": false,
     "particleToSpawn": {
       "value": "ENCHANTMENT_TABLE"
     },
@@ -101,18 +101,16 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Surface"
-    ],
+    "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 8,
-    "frequencyOnChunk": 2,
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 16
+    "maxGenerateHeight": 64
   }
 }

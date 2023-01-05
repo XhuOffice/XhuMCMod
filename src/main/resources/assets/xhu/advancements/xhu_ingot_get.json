@@ -1,6 +1,6 @@
 {
   "display": {
-    "background": "minecraft:textures/blocks/stone.png",
+    "background": "xhu:textures/xhulogo_shadow.png",
     "icon": {
       "item": "xhu:xhu_ingot"
     },

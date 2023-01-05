@@ -24,7 +24,7 @@ public class ItemXhuPickaxe extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_pickaxe")
 	public static final Item block = null;
 	public ItemXhuPickaxe(ElementsXhuMod instance) {
-		super(instance, 7);
+		super(instance, 5);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class ItemXhuArmor extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_armorboots")
 	public static final Item boots = null;
 	public ItemXhuArmor(ElementsXhuMod instance) {
-		super(instance, 17);
+		super(instance, 10);
 	}
 
 	@Override

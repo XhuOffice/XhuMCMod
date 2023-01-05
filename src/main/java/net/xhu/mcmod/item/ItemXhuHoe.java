@@ -24,7 +24,7 @@ public class ItemXhuHoe extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_hoe")
 	public static final Item block = null;
 	public ItemXhuHoe(ElementsXhuMod instance) {
-		super(instance, 11);
+		super(instance, 9);
 	}
 
 	@Override

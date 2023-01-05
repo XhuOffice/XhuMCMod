@@ -13,7 +13,7 @@ import net.minecraft.item.ItemStack;
 @ElementsXhuMod.ModElement.Tag
 public class RecipeXhuIngotSmelting extends ElementsXhuMod.ModElement {
 	public RecipeXhuIngotSmelting(ElementsXhuMod instance) {
-		super(instance, 5);
+		super(instance, 14);
 	}
 
 	@Override

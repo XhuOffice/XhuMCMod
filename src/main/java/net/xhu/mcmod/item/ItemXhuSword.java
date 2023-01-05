@@ -29,7 +29,7 @@ public class ItemXhuSword extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_sword")
 	public static final Item block = null;
 	public ItemXhuSword(ElementsXhuMod instance) {
-		super(instance, 9);
+		super(instance, 7);
 	}
 
 	@Override

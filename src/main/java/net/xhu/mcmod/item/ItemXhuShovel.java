@@ -24,7 +24,7 @@ public class ItemXhuShovel extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_shovel")
 	public static final Item block = null;
 	public ItemXhuShovel(ElementsXhuMod instance) {
-		super(instance, 10);
+		super(instance, 8);
 	}
 
 	@Override

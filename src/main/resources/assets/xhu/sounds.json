@@ -7,5 +7,14 @@
         "stream": true
       }
     ]
+  },
+  "wfzydg": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "xhu:wfzydg",
+        "stream": true
+      }
+    ]
   }
 }

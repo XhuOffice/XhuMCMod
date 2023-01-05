@@ -20,7 +20,7 @@ public class ItemXhuIngot extends ElementsXhuMod.ModElement {
 	@GameRegistry.ObjectHolder("xhu:xhu_ingot")
 	public static final Item block = null;
 	public ItemXhuIngot(ElementsXhuMod instance) {
-		super(instance, 4);
+		super(instance, 3);
 	}
 
 	@Override

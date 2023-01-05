@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "xhu:xhu_armorbody"
+    },
+    "title": {
+      "translate": "advancements.xhu_armor_get.title"
+    },
+    "description": {
+      "translate": "advancements.xhu_armor_get.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "xhu_armor_get": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "xhu:xhu_ingot_get"
+}

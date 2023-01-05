@@ -13,7 +13,7 @@ import net.minecraft.creativetab.CreativeTabs;
 @ElementsXhuMod.ModElement.Tag
 public class TabXhuList extends ElementsXhuMod.ModElement {
 	public TabXhuList(ElementsXhuMod instance) {
-		super(instance, 2);
+		super(instance, 13);
 	}
 
 	@Override
