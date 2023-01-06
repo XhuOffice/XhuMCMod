@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "xhumcmod:items/xhu_head"
+  }
+}

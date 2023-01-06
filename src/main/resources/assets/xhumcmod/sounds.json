@@ -1,0 +1,20 @@
+{
+  "ngguu": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "xhumcmod:ngguu",
+        "stream": true
+      }
+    ]
+  },
+  "wfzydg": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "xhumcmod:wfzydg",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -7,7 +7,7 @@
     "achievementIcon": {
       "value": "CUSTOM:XhuArmor.body"
     },
-    "background": "xhulogo_shadow.png",
+    "background": "Default",
     "disableDisplay": false,
     "showPopup": true,
     "announceToChat": true,
@@ -15,7 +15,7 @@
     "rewardLoot": [],
     "rewardRecipes": [],
     "rewardFunction": "No function",
-    "rewardXP": 1,
+    "rewardXP": 0,
     "achievementType": "goal",
     "parent": {
       "value": "CUSTOM:XhuIngotGet"

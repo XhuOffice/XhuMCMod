@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xhumcmod:blocks/xhu_block",
+    "up": "xhumcmod:blocks/xhu_block",
+    "north": "xhumcmod:blocks/xhu_block",
+    "east": "xhumcmod:blocks/xhu_block",
+    "south": "xhumcmod:blocks/xhu_block",
+    "west": "xhumcmod:blocks/xhu_block",
+    "particle": "xhumcmod:blocks/xhu_block"
+  }
+}

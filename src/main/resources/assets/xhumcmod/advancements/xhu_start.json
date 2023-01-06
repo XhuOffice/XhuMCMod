@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "xhumcmod:xhu_logo"
+    },
+    "title": {
+      "translate": "advancements.xhu_start.title"
+    },
+    "description": {
+      "translate": "advancements.xhu_start.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "xhu_start": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "xhumcmod:xhu_ingot_smelting"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "xhumcmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "2": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "3": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "4": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "5": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "6": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "7": {
+      "item": "xhumcmod:xhu_ingot"
+    },
+    "8": {
+      "item": "xhumcmod:xhu_ingot"
+    }
+  },
+  "result": {
+    "item": "xhumcmod:xhu_armorbody",
+    "count": 1
+  }
+}
