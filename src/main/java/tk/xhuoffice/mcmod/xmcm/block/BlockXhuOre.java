@@ -58,16 +58,50 @@ public class BlockXhuOre extends ElementsXhumcmodMod.ModElement {
 			dimensionCriteria = true;
 		if (!dimensionCriteria)
 			return;
-		for (int i = 0; i < 16; i++) {
+		for (int i = 0; i < 4; i++) {
 			int x = chunkX + random.nextInt(16);
-			int y = random.nextInt(16) + 0;
+			int y = random.nextInt(15) + 1;
 			int z = chunkZ + random.nextInt(16);
 			(new WorldGenMinable(block.getDefaultState(), 4, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
 					boolean blockCriteria = false;
 					IBlockState require;
-					if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
-						blockCriteria = true;
+					require = Blocks.STONE.getStateFromMeta(0);
+					try {
+						if ((blockAt.getBlock() == require.getBlock())
+								&& (blockAt.getBlock().getMetaFromState(blockAt) == require.getBlock().getMetaFromState(require)))
+							blockCriteria = true;
+					} catch (Exception e) {
+						if (blockAt.getBlock() == require.getBlock())
+							blockCriteria = true;
+					}
+					require = Blocks.STONE.getStateFromMeta(1);
+					try {
+						if ((blockAt.getBlock() == require.getBlock())
+								&& (blockAt.getBlock().getMetaFromState(blockAt) == require.getBlock().getMetaFromState(require)))
+							blockCriteria = true;
+					} catch (Exception e) {
+						if (blockAt.getBlock() == require.getBlock())
+							blockCriteria = true;
+					}
+					require = Blocks.STONE.getStateFromMeta(3);
+					try {
+						if ((blockAt.getBlock() == require.getBlock())
+								&& (blockAt.getBlock().getMetaFromState(blockAt) == require.getBlock().getMetaFromState(require)))
+							blockCriteria = true;
+					} catch (Exception e) {
+						if (blockAt.getBlock() == require.getBlock())
+							blockCriteria = true;
+					}
+					require = Blocks.STONE.getStateFromMeta(5);
+					try {
+						if ((blockAt.getBlock() == require.getBlock())
+								&& (blockAt.getBlock().getMetaFromState(blockAt) == require.getBlock().getMetaFromState(require)))
+							blockCriteria = true;
+					} catch (Exception e) {
+						if (blockAt.getBlock() == require.getBlock())
+							blockCriteria = true;
+					}
 					return blockCriteria;
 				}
 			})).generate(world, random, new BlockPos(x, y, z));

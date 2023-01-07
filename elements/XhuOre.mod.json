@@ -107,12 +107,21 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.STONE#1"
+      },
+      {
+        "value": "Blocks.STONE#3"
+      },
+      {
+        "value": "Blocks.STONE#5"
       }
     ],
-    "frequencyPerChunks": 16,
+    "frequencyPerChunks": 4,
     "frequencyOnChunk": 4,
-    "minGenerateHeight": 0,
+    "minGenerateHeight": 1,
     "maxGenerateHeight": 16
   }
 }
