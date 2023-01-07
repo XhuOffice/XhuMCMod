@@ -1,0 +1,13 @@
+{
+  "group": "xhumcmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xhumcmod:xhu_block"
+    }
+  ],
+  "result": {
+    "item": "xhumcmod:xhu_ingot",
+    "count": 9
+  }
+}

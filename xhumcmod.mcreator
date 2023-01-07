@@ -47,15 +47,6 @@
       "registry_name": "xhu_ingot_smelting"
     },
     {
-      "name": "XhuIngotGet",
-      "type": "achievement",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "xhu_ingot_get"
-    },
-    {
       "name": "XhuPickaxe",
       "type": "tool",
       "sortid": 5,
@@ -215,15 +206,6 @@
       "registry_name": "music_disc_lty_wfzydg"
     },
     {
-      "name": "XhuArmorGet",
-      "type": "achievement",
-      "sortid": 25,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "xhu_armor_get"
-    },
-    {
       "name": "XhuBlock",
       "type": "block",
       "sortid": 4,
@@ -233,47 +215,13 @@
       "registry_name": "xhu_block"
     },
     {
-      "name": "IfXhuArmorGet",
-      "type": "procedure",
-      "sortid": 26,
+      "name": "XhuIngotRecipe",
+      "type": "recipe",
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "if_xhu_armor_get",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
-      "name": "XhuStart",
-      "type": "achievement",
-      "sortid": 27,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "xhu_start"
-    },
-    {
-      "name": "IfPlayThisMod",
-      "type": "procedure",
-      "sortid": 28,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "if_play_this_mod",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
+      "registry_name": "xhu_ingot_recipe"
     }
   ],
   "variable_elements": [],
@@ -297,19 +245,14 @@
   ],
   "language_map": {
     "en_us": {
-      "advancements.xhu_ingot_get.title": "Xhu!",
       "item.xhu_armorboots.name": "Xhu Boots",
       "item.xhu_pickaxe.name": "Xhu Pickaxe",
       "item.xhu_armorhelmet.name": "Xhu Helmet",
-      "item.music_disc_ra_ngguu.name": "Music Disc",
       "item.xhu_armorbody.name": "Xhu Chestplate",
+      "item.music_disc_ra_ngguu.name": "Music Disc",
       "subtitles.ngguu": "",
-      "advancements.xhu_ingot_get.descr": "Get a Xhu ingot.",
-      "advancements.xhu_start.title": "Xhu",
       "tile.xhu_ore.name": "Xhu Ore",
       "item.xhu_logo.name": "Xhu Logo",
-      "advancements.xhu_start.descr": "The beginning of Xhu",
-      "advancements.xhu_armor_get.descr": "Get a full set of Xhu armor.",
       "tile.xhu_block.name": "Xhu Block",
       "itemGroup.tabxhu_list": "Xhu List",
       "item.xhu_axe.name": "Xhu Axe",
@@ -320,24 +263,18 @@
       "item.xhu_shovel.name": "Xhu Shovel",
       "item.record.music_disc_ra_ngguu.desc": "Rick Astley - Never Gonna Give You Up",
       "item.music_disc_lty_wfzydg.name": "Music Disc",
-      "advancements.xhu_armor_get.title": "Give me the power of Xhu!",
       "item.record.music_disc_lty_wfzydg.desc": "洛天依 - 万分之一的光",
       "subtitles.wfzydg": ""
     },
     "zh_cn": {
-      "advancements.xhu_ingot_get.title": "Xhu！",
       "item.xhu_armorboots.name": "Xhu 靴",
       "item.xhu_pickaxe.name": "Xhu 镐",
       "item.xhu_armorhelmet.name": "Xhu 头盔",
-      "item.music_disc_ra_ngguu.name": "音乐唱片",
       "item.xhu_armorbody.name": "Xhu 胸甲",
+      "item.music_disc_ra_ngguu.name": "音乐唱片",
       "subtitles.ngguu": "",
-      "advancements.xhu_ingot_get.descr": "获得一块 Xhu 锭。",
-      "advancements.xhu_start.title": "Xhu",
       "tile.xhu_ore.name": "Xhu 矿石",
       "item.xhu_logo.name": "Xhu Logo",
-      "advancements.xhu_start.descr": "Xhu的开始",
-      "advancements.xhu_armor_get.descr": "装备一整套 Xhu 装备。",
       "tile.xhu_block.name": "Xhu Block",
       "itemGroup.tabxhu_list": "Xhu",
       "item.xhu_axe.name": "Xhu 斧",
@@ -348,7 +285,6 @@
       "item.xhu_shovel.name": "Xhu 铲",
       "item.record.music_disc_ra_ngguu.desc": "Rick Astley - Never Gonna Give You Up",
       "item.music_disc_lty_wfzydg.name": "音乐唱片",
-      "advancements.xhu_armor_get.title": "Give me the power of Xhu!",
       "item.record.music_disc_lty_wfzydg.desc": "洛天依 - 万分之一的光",
       "subtitles.wfzydg": ""
     }

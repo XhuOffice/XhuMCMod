@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:true
-resourcePacks:["[1.12.x]XeKr+redstone+display.zip","[1.8-1.12]Xray_Ultimate_v2.3.1.zip"]
+resourcePacks:["[1.12.x]XeKr+redstone+display.zip"]
 incompatibleResourcePacks:[]
 lastServer:153.34.179.180:14514
 lang:zh_cn
