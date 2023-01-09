@@ -296,10 +296,10 @@
   "workspaceSettings": {
     "modid": "xhumcmod",
     "modName": "Xhu Minecraft Mod",
-    "version": "1.0.alpha.0",
+    "version": "1.0.0",
     "description": "Xhu Mod for Minecraft",
     "author": "Session, XhuOffice",
-    "websiteURL": "https://xhuoffice.tk/Services/MinecraftMods",
+    "websiteURL": "https://xhuoffice.tk/Services/MinecraftMods#XhuMCMod",
     "license": "Apache License version 2.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
